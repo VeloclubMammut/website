@@ -15,9 +15,6 @@ after_success:
 notifications:
   email:
     on_failure: always
-env:
-  global:
-    secure: sYCp7XZBaH+h/vhE9KJJqNe2IgHfDSnWPL6sktui69fJYbJpcm1MrACuWowSZTpv37j6wkafemi06OrURJgI54w46bXAv0ZW0xWs2f1+0S4HdgfKHeShphK+O8dCXNEfSJAws8wMzTHVfHMXGOutsGAxRzgH2BO922ThnMY9iPTRyW+h4PBu2/gCwNfJTOD7Ms5iI4sdfFMFcUA72zDNBLKrypV6YrR+5xLyguL0biljzNz1hmDftrN30NXchiTtxn5YoylOJoI0745ltSfkYPFTKIczEf1D/CQ/9IJNr1Hls6A/qOoB8Qoe98JLEAVkRCgaRCxAPIHIUwW9ESpd8t60z2KrOtzSgGF92JuhiXEpcbOIpujAIKISO7ox9yDWJWw4ciFCnKsVUaUOK/hGelP1UGMUZ4iSUUe8novhWkV9Wq4BfOMFFzSTKuRrcVj8sINHJ9kuOSkJdCJAdF21rlEjUiB2bjoAskRSG8UAEshKfwkBGcKBUsQswpIgcAvy8hvJ29jt53k0Pld5vZooycajAm9FuozCoW3qdlgpzzMjQM/V7Y7Ejnb7UEZzH+UXGVhN4W/o3k4LvdjC4onKqZh/NPl8+zK671uJUZbfsqGv5NTY5AbnQxPGshaY9XD8ljk6YiKfQmV+g8UkvE2qAzRBHSI7BkXdR1X4J3rvZNI=
 before_install:
 - openssl aes-256-cbc -K $encrypted_dfdcfd5172af_key -iv $encrypted_dfdcfd5172af_iv
   -in deploy_key.enc -out ./deploy_key -d
