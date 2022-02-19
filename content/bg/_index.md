@@ -1,6 +1,6 @@
 ---
 title: "Вело Клуб Мамут"
-featured_image: 'https://scontent.fsof9-1.fna.fbcdn.net/v/t39.30808-6/243836465_4506578852722204_984899014349558963_n.png?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_ohc=Yd7Y7COuHTsAX9PyucP&_nc_ht=scontent.fsof9-1.fna&oh=8a1f54c1e0c9b560a5bc8fdf1bdafd21&oe=615CD65F'
+featured_image: 'https://mtb-bg.com/wp-content/uploads/2013/07/events-bg-2013_mammuth-july-2013.jpg'
 description: "планина - шосе - писта"
 ---
 Добре дошли на страницата на Вело Клуб Мамут
