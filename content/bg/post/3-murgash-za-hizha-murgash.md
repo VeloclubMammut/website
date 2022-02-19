@@ -25,7 +25,7 @@ title: "Мургаш за хижа Мургаш 2022"
 ### Старт бегачи:
 10:15 ч. с. Желява на 24.05.2022.
 
-#№ РЕГИСТРАЦИЯ
+## РЕГИСТРАЦИЯ
 Колоездачи https://docs.google.com/forms/d/1BqawDBwLJIJVf1VevvExIlFbadX2IDQB2rbA2b4Brho/edit
 
 Бегачи https://docs.google.com/forms/d/1_4K3noq6XnuPdAJUtaUCdAbrMpIKkpNammIUsin4sLE/edit
