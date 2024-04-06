@@ -1,7 +1,7 @@
 ---
-date: 2024-05-11T11:41:08+03:00
+date: 2024-04-04T11:41:08+03:00
 description: "Мургаш за Мургаш 2024"
-featured_image: "images/m4m-2024.jpg"
+featured_image: "images/m4m-2023.jpg"
 tags: ["race","състезание","благотворително","мургаш"]
 title: "Мургаш за Мургаш 2024"
 ---
